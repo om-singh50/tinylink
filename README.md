@@ -3,20 +3,18 @@
 TinyLink is a full-stack URL shortening web application inspired by Bit.ly.  
 It allows users to create short links, view click analytics, delete links, and manage everything through a clean, modern UI.
 
-This project is built as part of a take-home assignment and follows **all required specs**, including URL conventions, API behavior, health checks, and UI expectations.
-
 ---
 
 ## 🚀 Live Demo
 
 ### 🔗 Frontend (Vercel)
-(https://tinylink-tan.vercel.app/)
+https://tinylink-tan.vercel.app/
 
 ### 🔗 Backend API (Render)
-https://YOUR-BACKEND-URL.onrender.com
+https://tinylink-backend-uu47.onrender.com
 
 ### 🔗 Example Short URL
-https://YOUR-BACKEND-URL.onrender.com/abc123
+https://tinylink-backend-uu47.onrender.com/abc123
 
 ---
 
@@ -154,7 +152,7 @@ npm install
 npm run dev
 ```
 **Backend runs at:** 
-https://tinylink-backend-uu47.onrender.com
+http://localhost:4000
 
 Frontend:
 ```bash
@@ -163,4 +161,7 @@ npm install
 npm run dev
 ```
 **Frontend runs at:**
-https://tinylink-tan.vercel.app/
+http://localhost:5173
+
+***LLM Support:***
+ChatGPT was used for debugging and guidance.
