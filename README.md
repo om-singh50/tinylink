@@ -10,7 +10,7 @@ This project is built as part of a take-home assignment and follows **all requir
 ## 🚀 Live Demo
 
 ### 🔗 Frontend (Vercel)
-https://YOUR-FRONTEND-URL.vercel.app
+(https://tinylink-tan.vercel.app/)
 
 ### 🔗 Backend API (Render)
 https://YOUR-BACKEND-URL.onrender.com
